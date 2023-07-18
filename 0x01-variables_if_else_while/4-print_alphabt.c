@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Prog Entry point
- * Return: Always 0 (Succes)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 	c = 'a';
 	while
 		(c <= 'z') {
-			if ((c != 'q' && c != 'c') && c <= 'z')
+			if ((c != 'q' && c != 'e') && c <= 'z')
 				putchar(c);
 			c++;
 		}

@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - prints its own opcodes
@@ -33,7 +34,7 @@ int main(int  argc, char *argv[])
 			printf("%02hhx\n", arr[i]);
 			break;
 		}
-		print("%02hhx", arr[i])
+		print("%02hhx", arr[i]);
 	}
 	return (0);
 }

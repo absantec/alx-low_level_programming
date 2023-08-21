@@ -3,9 +3,9 @@
 #include <stdio.h>
 #include "3.calc.h"
 /**
- * main - prints the result of simple operatioons
+ * main - prints the result of simple operations
  * @argc: The number of arguments supplied to the program.
- * @argc: An array of pointers to the arguments
+ * @argv: An array of pointers to the arguments
  *
  * Return: Always 0.
  */

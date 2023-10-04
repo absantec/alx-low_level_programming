@@ -1,9 +1,12 @@
-0x0E. C - Structures, typedef
-Define a new type struct dog with the following elements:
+0x0B. C - malloc, free
+Tasks
+0. Float like a butterfly, sting like a bee
+mandatory
+Write a function that creates an array of chars, and initializes it with a specific char.
 
-name, type = char *
-age, type = float
-owner, type = char *
-
-1. A dog is the only thing on earth that loves you more than you love yourself
-2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad
+Prototype: char *create_array(unsigned int size, char c);
+Returns NULL if size = 0
+Returns a pointer to the array, or NULL if it fails
+1. The woman who has no imagination has no wings
+mandatory
+Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.

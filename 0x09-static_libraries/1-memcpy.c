@@ -7,7 +7,7 @@
  *
  * Return: copied memory with a byted changed
  */
-char *_memory(char *dest, char *src unsigned int n)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	int p = 0;
 	int i = n;

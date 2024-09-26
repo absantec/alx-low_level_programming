@@ -1,0 +1,12 @@
+[submodule "0x00. AirBnB clone"]
+	path = AirBnB clone
+	url = https://github.com/absantec/AirBnB_clone
+[submodule "0x03-python-data_structures"]
+	path = 0x03-python-data_structures
+	url = https://github.com/absantec/python-data_structures
+[submodule "0x1D-binary_trees"]
+	path = 0x1D-binary_trees
+	url = https://github.com/absantec/binary_trees
+[submodule "0x1B-sorting_algorithms"]
+	path = 0x1B-sorting_algorithms
+	url = https://github.com/absantec/sorting_algorithms
